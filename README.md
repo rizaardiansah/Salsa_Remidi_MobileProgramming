@@ -5,8 +5,7 @@ Tujuannya adalah untuk memenuhi tugas remidi dalam mata kuliah Mobile Programmin
 dengan menampilkan daftar nama mahasiswa sesuai kriteria yang telah ditetapkan.
 
 # Dokumentasi Pengerjaan
-![](https://github.com/Almaarstyy/Remidi_MobileProgramming/blob/main/Pengerjaan.png)
+![](https://github.com/rizaardiansah/Salsa_Remidi_MobileProgramming.git)
 # Hasil Run Project
-![](https://github.com/Almaarstyy/Remidi_MobileProgramming/blob/main/Hasilrun%20(2).png)
-# Demo Video
-![](https://github.com/Almaarstyy/Remidi_MobileProgramming/blob/main/DemoVideo-ezgif.com-video-to-gif-converter.gif)
+![](https://github.com/rizaardiansah/Salsa_Remidi_MobileProgramming.git)
+
